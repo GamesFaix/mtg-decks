@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Aga Galneer</deckname>
+  <comments>Contains these Astral cards: Gem Bazaar. </comments>
+  <zone name="main">
+    <card number="8" name="Swamp" />
+    <card number="6" name="Forest" />
+    <card number="8" name="Plains" />
+    <card number="1" name="Sol Ring" />
+    <card number="2" name="Gem Bazaar" />
+    <card number="2" name="Erg Raiders" />
+    <card number="2" name="El-Hajjaj" />
+    <card number="2" name="Healing Salve" />
+    <card number="2" name="Stream of Life" />
+    <card number="3" name="Onulet" />
+    <card number="2" name="Greed" />
+    <card number="2" name="Ashes to Ashes" />
+    <card number="2" name="Jade Monolith" />
+    <card number="3" name="Spirit Link" />
+    <card number="2" name="Serra Angel" />
+    <card number="2" name="Sengir Vampire" />
+    <card number="2" name="Giant Growth" />
+    <card number="2" name="Giant Spider" />
+    <card number="2" name="Fungusaur" />
+    <card number="2" name="Savannah Lions" />
+    <card number="2" name="Hurricane" />
+  </zone>
+</cockatrice_deck>

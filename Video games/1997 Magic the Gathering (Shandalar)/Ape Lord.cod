@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Ape Lord</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="12" name="Forest" />
+    <card number="10" name="Mountain" />
+    <card number="2" name="Mana Vault" />
+    <card number="4" name="Birds of Paradise" />
+    <card number="4" name="Llanowar Elves" />
+    <card number="1" name="Detonate" />
+    <card number="4" name="Winter Blast" />
+    <card number="4" name="Killer Bees" />
+    <card number="2" name="Shivan Dragon" />
+    <card number="2" name="Craw Wurm" />
+    <card number="2" name="Dragon Engine" />
+    <card number="3" name="Stream of Life" />
+    <card number="3" name="Fireball" />
+    <card number="3" name="Disintegrate" />
+    <card number="4" name="Firebreathing" />
+  </zone>
+</cockatrice_deck>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_deck version="1">
+  <deckname>Druid</deckname>
+  <comments></comments>
+  <zone name="main">
+    <card number="20" name="Forest" />
+    <card number="4" name="Mishra's Factory" />
+    <card number="3" name="Ley Druid" />
+    <card number="3" name="Llanowar Elves" />
+    <card number="2" name="Oasis" />
+    <card number="3" name="Wooden Sphere" />
+    <card number="4" name="Giant Growth" />
+    <card number="3" name="Wanderlust" />
+    <card number="2" name="Wall of Wood" />
+    <card number="2" name="Naf's Asp" />
+    <card number="2" name="Giant Spider" />
+    <card number="2" name="Craw Wurm" />
+    <card number="2" name="Ironroot Treefolk" />
+    <card number="3" name="Instill Energy" />
+    <card number="2" name="Killer Bees" />
+    <card number="2" name="Durkwood Boars" />
+    <card number="3" name="Grizzly Bears" />
+  </zone>
+  <zone name="side">
+    <card number="3" name="Shanodin Dryads" />
+  </zone>
+</cockatrice_deck>
